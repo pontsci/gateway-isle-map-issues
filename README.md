@@ -11,7 +11,7 @@ Welcome to the issue tracker repository for [Isle Maps](https://www.islemaps.com
 ## How to Submit a Bug Report
 If you've encountered an issue with Isle Maps, we want to know! Here's how you can let us know about it:
 
-1. **Check Existing Issues:** Before submitting a new bug report, please check the existing issues to avoid duplicate submissions.
+1. **Check Existing Issues:** Before submitting a new bug report, please check the [existing issues](https://github.com/pontsci/gateway-isle-map-issues/issues) to avoid duplicate submissions.
 2. **Title:** Keep it concise and indicative of the problem.
 3. **Description:** Clearly describe the issue you encountered. Include the following:
    - **Steps to reproduce:** Detail the exact steps you took leading up to the problem.
@@ -44,7 +44,7 @@ Environment:
 ## How to Suggest a Feature
 We're always looking for ways to make Isle Maps even better! If you have a feature suggestion, follow these steps:
 
-1. **Check Existing Feature Requests:** Look through the issues to ensure someone hasn't already proposed the same idea.
+1. **Check Existing Feature Requests:** Look through the issues to ensure someone hasn't already proposed the [same idea](https://github.com/pontsci/gateway-isle-map-issues/issues).
 2. **Title:** Begin your title with "Feature Request:" followed by a brief summary of the feature.
 3. **Description:** Clearly outline your feature idea, the problem it addresses, and how it can benefit users.
 
